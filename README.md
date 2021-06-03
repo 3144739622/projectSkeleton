@@ -1,0 +1,2 @@
+# projectSkeleton
+一个基于VUE的具有基础功能的后台管理系统框架
