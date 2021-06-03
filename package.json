@@ -1,0 +1,30 @@
+{
+  "name": "project_skeleton",
+  "version": "1.0.0",
+  "description": "一个基于REACT框架的具备基本功能的后台管理系统框架、",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3144739622/projectSkeleton.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3144739622/projectSkeleton/issues"
+  },
+  "homepage": "https://github.com/3144739622/projectSkeleton#readme",
+  "dependencies": {
+    "@types/react": "^17.0.9",
+    "@types/react-dom": "^17.0.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^3.0.0",
+    "typescript": "^4.3.2"
+  }
+}
